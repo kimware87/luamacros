@@ -39,7 +39,7 @@ lmc_set_handler('MacroPad',function(button, direction)
   elseif (button == 32) then lmc_send_keys("^k") -- Space Insert Hyperlink
   elseif (button == 18) then lmc_send_keys() -- Alt
   elseif (button == 20) then lmc_send_keys() -- Capslock 
-  elseif (button ==  9) then lmc_send_keys("^{TAB}") --Tab
+  elseif (button ==  9) then lmc_send_keys("^{TAB}") --Tab Ctrl+Tab in Browser
   
   
   -- elseif (button == string.byte('N')) then lmc_spawn("notepad", "C:\\test.txt")
