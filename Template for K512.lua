@@ -54,6 +54,38 @@ end)
 -- & = Tab
 -- ~ = Enter
 
+-- Refer to these keys by surrounding them with curly braces. For example, {F3} sends the F3 key.
+-- BKSP, BS, BACKSPACE
+-- BREAK
+-- CAPSLOCK
+-- CLEAR
+-- DEL
+-- DELETE
+-- DOWN
+-- END
+-- ENTER
+-- ESC
+-- ESCAPE
+-- F1, F2, F3, F4, F5, F6, F7, F8, F9, F10, F11, F12, F13, F14, F15, F16, F17, F18, F19, F20, F21, F22, F23, F24
+-- HELP
+-- HOME
+-- INS
+-- LEFT
+-- NUM0, NUM1, NUM2, NUM3, NUM4, NUM5, NUM6, NUM7, NUM8, NUM9
+-- NUMDECIMAL
+-- NUMDIVIDE
+-- NUMLOCK
+-- NUMMINUS
+-- NUMMULTIPLY
+-- NUMPLUS
+-- PGDN
+-- PGUP
+-- PRTSC
+-- RIGHT
+-- SCROLLLOCK
+-- TAB
+-- UP
+
 -- lmc_spawn() - Launch a Application
 -- lmc_send_keys('') or ("")  - Send Keystrokes
 -- lmc_send_input() - Send Specific Key Scan Code
